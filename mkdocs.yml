@@ -1,0 +1,18 @@
+site_name: Guia de Dados e IA - UFSCar
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+
+nav: 
+- Início: index.md
+- Sobre o Curso: about.md
+- Matérias:
+  - 1º Semestre: masterias/semestre-1.md
+
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
