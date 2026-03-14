@@ -30,4 +30,6 @@ Tudo o que você fizer por fora que pode ser acrescentado no curriculo, se encai
 ### Atividades de Conclusão de Curso
 Esse é o último tipo de atividade, e como o nome diz, é o que precisa para "concluir o curso", podendo ser Iniciação à Pesquisa, Projeto de Pesquisa, Estágio Supervisionado ou Práticas Profissionais, por hora é algo que não merece tanta preocuoação por ser algo do fim do curso
 
+
+### Tabela de Resumo das Horas
 ![Distribuição_das_horas_cdia_ufscar](assets/horas_totais.png)

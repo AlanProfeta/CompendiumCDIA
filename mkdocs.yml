@@ -8,7 +8,9 @@ nav:
 - Início: index.md
 - Sobre o Curso: about.md
 - Matérias:
-  - 1º Semestre: masterias/semestre-1.md
+  - 1º Semestre: 
+    - Visão Geral: materias/semestre_1/index.md
+    - Fundamentos em Ciência de Dados e Inteligência Artificial: materias/semestre_1/fundamentos_ciencia_de_dados_e_ia.md
 
 
 extra_css:
