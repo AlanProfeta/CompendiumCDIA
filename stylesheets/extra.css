@@ -4,3 +4,15 @@
     text-align: center;
 }
 
+.md-typeset__table {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.md-typeset table {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: table !important;
+    width: auto !important;
+    min-width: 60%;
+}
