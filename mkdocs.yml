@@ -6,12 +6,15 @@ theme:
 
 nav: 
 - Início: index.md
-- Sobre o Curso: about.md
+- Sobre o Curso: sobre-o-curso.md
 - Matérias:
   - 1º Semestre: 
-    - Visão Geral: materias/semestre_1/index.md
-    - Fundamentos em Ciência de Dados e Inteligência Artificial: materias/semestre_1/fundamentos_ciencia_de_dados_e_ia.md
-
+    - Visão Geral: materias/semestre-1/index.md
+    - Fundamentos em Ciência de Dados e Inteligência Artificial: materias/semestre-1/fundamentos-ciencia-de-dados-e-ia.md
+    - Exploração de Dados: materias/semestre-1/exploracao-de-dados.md
+    - Cálculo I: materias/semestre-1/calculo-1.md
+    - Teoria das probabilidades: materias/semestre-1/teoria-das-probabilidades.md
+    - Introdução à Programação: materias/semestre-1/introducao-a-programacao.md
 
 extra_css:
   - stylesheets/extra.css

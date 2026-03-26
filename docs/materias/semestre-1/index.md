@@ -15,32 +15,32 @@ A grade então por hora é essa:
 
   <tbody>
     <tr>
-      <td><a href="calculo-1.md">Cálculo 1</a></td>
+      <td><a href="calculo-1"> Cálculo Diferencial e Integral I</a></td>
       <td>60h</td>
     </tr>
 
     <tr>
-      <td><a href="algoritmos.md">Introdução à Programação</a></td>
+      <td><a href="introducao-a-programacao"> Introdução à Programação </a></td>
       <td>60h</td>
     </tr>
 
     <tr>
-        <td> Laboratório de Programação</td>
+        <td> <a href="introducao-a-programacao"> Laboratório de Programação </a</td>
         <td> 30h</td>
     </tr>
 
     <tr>
-        <td><a href="fundamentos_ciencia_de_dados_e_ia"> Fundamentos em Ciência de Dados e Inteligência Artificial</a></td>
+        <td><a href="fundamentos-ciencia-de-dados-e-ia"> Fundamentos em Ciência de Dados e Inteligência Artificial</a></td>
         <td>60h</td>
     </tr>
 
     <tr>
-        <td> Introdução à Exploração de Dados </td>
+        <td> <a href="exploracao-de-dados"> Introdução à Exploração de Dados </a> </td>
         <td>60h</td>
     </tr>
 
     <tr>
-        <td>Introdução à Teoria das Probabilidades</td>
+        <td> <a href="teoria-das-probabilidades"> Introdução à Teoria das Probabilidades </a></td>
         <td>60h</td>
     </tr>
 

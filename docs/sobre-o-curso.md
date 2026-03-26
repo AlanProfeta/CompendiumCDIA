@@ -33,3 +33,9 @@ Esse é o último tipo de atividade, e como o nome diz, é o que precisa para "c
 
 ### Tabela de Resumo das Horas
 ![Distribuição_das_horas_cdia_ufscar](assets/horas_totais.png)
+
+<div style="text-align: right; margin-top: 40px; margin-bottom: 20px;">
+  <a href="../materias/semestre-1" style="background-color: #2094f3; color: white; padding: 10px 22px; text-decoration: none; border-radius: 6px; font-weight: bold; font-family: sans-serif; font-size: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: 0.3s;">
+    Matérias ➔
+  </a>
+</div>
