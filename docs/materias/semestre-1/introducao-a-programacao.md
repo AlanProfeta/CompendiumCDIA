@@ -1,10 +1,10 @@
 # Introdução a Programação 
 
 ## Sobre a Matéria
-Esta é uma matéria vital para o curso, seu papel é desenvolver no aluno a capacidade de resolver problemas por meio de soluções computacionaisprogramadas de forma estruturada e algoritmica.
+Esta é uma matéria vital para o curso, seu papel é desenvolver no aluno a capacidade de resolver problemas por meio de soluções computacionais programadas de forma estruturada e algorítmica.
 É uma matéria fundamental pois faz parte da base mais fundamental do curso que é a parte computacional
 Ela é dada usando a linguagem C
-<p> Seu conteúdo programatico até o momento é:</p>
+<p> Seu conteúdo programático até o momento é:</p>
 
 * Fundamentos de algoritmos
 * Comandos Básicos
@@ -17,21 +17,21 @@ Ela é dada usando a linguagem C
 ## Como é Cobrada
 <p> Até o momento sua forma de ser cobrada é baseada a principio de duas formas sendo elas: </p>
 
-* Lista (Li): Listas de exercicios sendo eles práticos ou teóricos
-* Provas (Pr): Duas provas que formam uma média entre elas, sendo a primeira responsavel por 30% e a outra por 70%
+* Lista (Li): Listas de exercícios sendo eles práticos ou teóricos
+* Provas (Pr): Duas provas que formam uma média entre elas, sendo a primeira responsável por 30% e a outra por 70%
 
 <p>Nota Final(NF):</p>
 
 * Se Li>= 5 então NF = Pr\*0.8 + Li\*0.2
 * Se Li< 5 então NF = Pr\*0.2 + Li\*0.8
 
-<p>O aluno é aprovado se obter uma nota <strong>MAIOR OU IGUAL</strong>a 6,0
-Caso contrário, será aplicado o PAC, uma avaliação complementar em formato de prova, <strong>MAS</strong> só poderá ser feito o PAC alunos que ficarem entre 5,0 e 5,9 de nota</p>
+<p>O aluno é aprovado se obtiver uma nota <strong>MAIOR OU IGUAL</strong>a 6,0 e uma frequência de no mínimo 75% </p>
+<p>Atenção: A nota das listas altera drasticamente o peso das provas e também as regras de avaliação e pesos podem variar a cada semestre conforme o planejamento da docência. Consulte sempre o Plano de Ensino atualizado.  </p>
 
 ## Bibliografia
 * C Programming: A Modern Approach. 2. ed. King
 
-<p> Deixei apenas um livro da bibliografia pois nesta matéria não é muito usado e nem tanto recomendado. Programar é como estudar matemática, só se aprende fazendo, então neste caso tem outras formas "melhores" para se aprender do que livros </p>
+<p> Embora o livro do King (C Programming: A Modern Approach) seja a referência oficial e excelente para consulta de sintaxe, a programação é uma habilidade prática. Recomendamos focar na resolução das listas e em plataformas de exercícios (como Beecrowd ou LeetCode), pois o domínio da lógica vem da "mão na massa" </p>
 
 <h2 align="center">Central de Apoio</h2>
 <p align="center">Materiais recomendados, vídeo-aulas e resumos da comunidade.</p>

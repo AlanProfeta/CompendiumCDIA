@@ -2,9 +2,9 @@
 
 ## Sobre a Matéria
 
-Essa é uma matéria fundamentalmente prática; seu foco é capacitar o estudante a organizar, descrever e interpretar diferentes tipos de dados através de medidas estatísticas e representações gráficas adequadas. O conteúdo serve como base para identificar padrões e tendências em conjuntos de dados reais, utilizando ferramentas computacionais que serão o alicerce para disciplinas avançadas, além de desenvolver uma visão mais critica e analitica dos dados
+Essa é uma matéria fundamentalmente prática; seu foco é capacitar o estudante a organizar, descrever e interpretar diferentes tipos de dados através de medidas estatísticas e representações gráficas adequadas. O conteúdo serve como base para identificar padrões e tendências em conjuntos de dados reais, utilizando ferramentas computacionais que serão o alicerce para disciplinas avançadas, além de desenvolver uma visão mais crítica e analítica dos dados
 
-<p> Seu conteúdo programatico é: </p>
+<p> Seu conteúdo programático é: </p>
 
 * Tipos de dados
 * Estatística Descritiva
@@ -12,7 +12,7 @@ Essa é uma matéria fundamentalmente prática; seu foco é capacitar o estudant
 * Medidas descritivas de dados quantitativos
 * Representação Gráfica de dados quantitativos
 * Associação entre uma variável quantitativa e qualitativa
-* Representação gráfica de dados multidimensioanis
+* Representação gráfica de dados multidimensionais
 
 ## Como é Cobrada
 Sem informação até o momento
@@ -21,8 +21,9 @@ Sem informação até o momento
 </p> Sua bibliografia principal é: </p>
 
 * Estatística e Ciência de Dados, Morettin & Singer
-* Manual de Análise de Dados: Estatística e Machine
-Learning com Excel®, SPSS®, Stata®, R® e Python®, 2 ed. Fávero; Belfiore.
+* Manual de Análise de Dados: Estatística e Machine Learning com Excel®, SPSS®, Stata®, R® e Python®, 2 ed. Fávero; Belfiore.
+
+Essa disciplina é mais prática, ela tem sua bibliografia mas até a própria bibliografia é bem prática com vários exercícios e exemplos, então a melhor forma de aprender ela é fazendo.
 
 
 <hr style="margin-top: 40px; margin-bottom: 30px;">

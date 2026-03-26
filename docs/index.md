@@ -1,9 +1,12 @@
-# Bem-vindo à Ciência de Dados e IA {: .titulo-colado}
-# Bem vindo à UFSCar {: .titulo-colado}
+# Parabéns pelo ingresso na UFSCar! {: .titulo-colado}
+## Guia Comunitário: Ciência de Dados e IA {: .titulo-colado}
+
+
+**De alunos para alunos.** Este espaço foi criado para celebrar sua aprovação e ajudar na sua jornada pelo curso de CDIA.
 
 ## Apresentação do Guia
-Este Guia foi concebido com a ideia de unir em um único local informações sobre o curso de Ciência de dados e IA da UFSCar usando informações públicas ou dadas por estudantes do curso.
-Tudo foi feito com o propósito de facilitar a integração das próximas turmas a ingressarem no curso, além de facilitar até onde possível para as atuais turmas focando em manter tudo de fácil acesso e organizado, além de servir como um póssivel registro da primeira turma do curso para as que virão futuramente
+Este Guia foi concebido com a ideia de unir em um único local informações sobre o curso de Ciência de Dados e IA da UFSCar usando informações públicas ou dadas por estudantes do curso.
+Tudo foi feito com o propósito de facilitar a integração das próximas turmas a ingressarem no curso, além de facilitar até onde possível para as atuais turmas, focando em manter tudo de fácil acesso e organizado.
 
 > Construímos muros demais e pontes de menos
 \- Isaac Newton
@@ -16,3 +19,4 @@ O guia é separado por tópicos, onde temos uma página falando do curso e o que
     Sobre o Curso ➔
   </a>
 </div>
+

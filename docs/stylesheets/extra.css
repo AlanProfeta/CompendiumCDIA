@@ -1,5 +1,6 @@
 .titulo-colado{
     margin-bottom: 0px !important;
+    margin-top: 0px !important;
     align-items: center;
     text-align: center;
 }
@@ -15,4 +16,23 @@
     display: table !important;
     width: auto !important;
     min-width: 60%;
+}
+
+
+.md-footer-meta__inner {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    flex-wrap: wrap;        
+    gap: 15px;               
+}
+
+.md-copyright {
+    width: auto;             
+    margin: 0;              
+}
+
+.md-social {
+    padding: 0;
+    margin: 0;
 }

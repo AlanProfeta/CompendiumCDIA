@@ -1,7 +1,7 @@
 # Visão Geral do Primeiro Semestre
-O Primeiro semestre é marcado por dúvidas e descobertas, tanto sobre as matérias, quanto sobre os professores ou sobre o campus, mas aqui estará um resumo sobre tudo isso e em cada página de determinada matéria você verá coisas mais especificas sobre ela.
-O primeiro semestre é composto por 6 matérias sendo todas obrigatórias e sem pré-requisitos, elas (com exceção do Laboratório de Programação que tem 30 créditos, isto é, são 2 horas-aula por semana) são de 60 créditos (isto é, tem 4 horas aula por semana)
-A grade então por hora é essa:
+O Primeiro semestre é marcado por dúvidas e descobertas, tanto sobre as matérias, quanto sobre os professores ou sobre o campus, mas aqui estará um resumo sobre tudo isso e em cada página de determinada matéria você verá coisas mais específicas sobre ela.
+O primeiro período é composto por 6 matérias, sendo todas obrigatórias e sem pré-requisitos, elas (com exceção do Laboratório de Programação que tem 2 créditos, isto é, são 2 horas-aula por semana) são de 4 créditos (isto é, tem 4 horas-aula por semana)
+A grade então por enquanto é essa:
 
 <center>
 <table>
@@ -25,7 +25,7 @@ A grade então por hora é essa:
     </tr>
 
     <tr>
-        <td> <a href="introducao-a-programacao"> Laboratório de Programação </a</td>
+        <td> <a href="introducao-a-programacao"> Laboratório de Programação </a></td>
         <td> 30h</td>
     </tr>
 

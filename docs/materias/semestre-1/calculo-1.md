@@ -3,7 +3,7 @@
 ## Sobre a Matéria
 
 Essa é uma matéria fundamental do ciclo básico; seu foco é introduzir os estudantes aos conceitos de limites, derivadas e integrais, que formam a base para o entendimento de taxas de variação e acúmulo de quantidades. Estes fundamentos serão aplicados em diversas disciplinas ao longo do curso, como Otimização e Redes Neurais, além de desenvolver o rigor lógico e a capacidade de modelagem de problemas complexos por meio de funções.
-<p>Seu conteudo programatico é: </p>
+<p>Seu conteúdo programático é: </p>
 
 * Limites de Funções
 * Continuidade
@@ -13,7 +13,8 @@ Essa é uma matéria fundamental do ciclo básico; seu foco é introduzir os est
 * Aplicações das integrais
 
 ## Como é cobrada
-seilá
+Essa matéria é cobrada através de exercícios feitos em sala e em provas aplicadas em datas marcadas pelo professor
+Deixando claro que: As regras de avaliação e pesos podem variar a cada semestre conforme o planejamento da docência. Consulte sempre o Plano de Ensino atualizado.
 
 ## Bibliografia
 
@@ -21,7 +22,7 @@ seilá
 * Cálculo, 9 ed. Larson
 * Um Curso de Cálculo, 5 ed. Guidorizzi
 
-<p> Sobre a bibliografia, o livro principal é o do Stewart, mas pode-se usar outros para complementar ou até se basear como o do guidorizzi </p>
+<p> Sobre a bibliografia, o livro principal é o do Stewart, mas pode-se usar outros para complementar ou até se basear como o do Guidorizzi </p>
 
 <hr style="margin-top: 40px; margin-bottom: 30px;">
 
