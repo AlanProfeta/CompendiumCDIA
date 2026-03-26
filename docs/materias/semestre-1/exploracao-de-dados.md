@@ -4,7 +4,7 @@
 
 Essa é uma matéria fundamentalmente prática; seu foco é capacitar o estudante a organizar, descrever e interpretar diferentes tipos de dados através de medidas estatísticas e representações gráficas adequadas. O conteúdo serve como base para identificar padrões e tendências em conjuntos de dados reais, utilizando ferramentas computacionais que serão o alicerce para disciplinas avançadas, além de desenvolver uma visão mais critica e analitica dos dados
 
-<p> Seu conteúdo programatico é:
+<p> Seu conteúdo programatico é: </p>
 
 * Tipos de dados
 * Estatística Descritiva
